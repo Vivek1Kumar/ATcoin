@@ -1,0 +1,57 @@
+.team{
+    padding: 20px;
+}
+.team h6{
+    color: #002140;
+    margin-left: auto;
+    padding-top:50px;
+   
+    font-weight: 300;
+}
+.team h2{
+    color: #002140;
+    font-family: serif;
+    font-weight: 600;
+
+}
+.team p{
+    color: #002140;
+    font-weight: 300;
+    text-align:center;
+    padding-top: 10px;
+}
+
+#team h1
+{
+font-family: 'Fahkwang', sans-serif;
+	font-size:40px;
+	padding: 20px 20px 20px 20px;
+
+}
+.fontWeight {
+    font-weight: ;
+    color: #002140;
+    font-size: 12px;
+    text-align: ;
+}
+.imageBg img {
+    background-size: cover;
+    margin-bottom: 30px;
+    border-radius: 0;
+    width: 200px;
+    height: 240px;
+  }
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.imageBg:hover .image {
+  opacity: 0.3;
+}
+
+
